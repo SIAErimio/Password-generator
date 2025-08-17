@@ -61,4 +61,11 @@ button:active{
     font-size: 16px;              
     padding: 8px 12px;            
   }
+  button:hover{
+    background-color: rgb(188, 188, 250);
+}
+
+button:active{
+    background-color: azure;
+
 }
