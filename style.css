@@ -41,6 +41,10 @@ button:active{
   body {
     padding: 20px;               
     background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;  
+    width: auto;
+    height: auto;
   }
 
   h1 {
@@ -48,8 +52,9 @@ button:active{
   }
 
   #passwordOutput {
-    font-size: 25px;              
+    font-size: 23px;              
     padding: 8px;
+    color: white;
   }
 
   button {
